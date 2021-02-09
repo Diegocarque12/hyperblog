@@ -1,0 +1,2 @@
+historia
+Esto es una historia de como comencé a trabajar en el curso de git de platzi
