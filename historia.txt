@@ -1,4 +1,4 @@
 historia
 Esto es una historia de como comencé a trabajar en el curso de git de platzi
 
-Hoy vamos a hablar de la vida
+Hoy vamos a hablar de la vida y de maestria
